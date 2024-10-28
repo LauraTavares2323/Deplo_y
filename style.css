@@ -1,0 +1,25 @@
+body { font-family: Arial, sans-serif; }
+#lista { margin-top: 20px; }
+
+#inputs{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.input{
+    width: 200px;
+    height: 20px;
+    border-radius: 10px;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    margin-top: 230px;
+}
