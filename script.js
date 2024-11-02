@@ -2,7 +2,7 @@ document.getElementById('enviar').onclick = () => {
     const nome = document.getElementById('nome').value;
     const sobrenome = document.getElementById('sobrenome').value;
 
-    fetch('https://deplo-y.vercel.app/', {
+    fetch('https://deplo-y-n66q.vercel.app/', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
